@@ -11,7 +11,10 @@
 **Свой сервер Discord**
 **Использование данных для Discord**
 
-
+>Текстовые редакторы ⚫
+1. Visual Studio Code > https://code.visualstudio.com/
+2. Sublime Text > https://www.sublimetext.com/
+3. PyCharm > https://www.jetbrains.com/pycharm/
 
 >Инструкции к использованию ✔
 
